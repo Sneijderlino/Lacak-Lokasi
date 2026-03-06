@@ -1,0 +1,80 @@
+#!/bin/bash
+
+# Quick Reference - Lacak-Lokasi Commands
+
+echo "╔══════════════════════════════════════════════════════╗"
+echo "║     LACAK-LOKASI - QUICK REFERENCE COMMANDS          ║"
+echo "╚══════════════════════════════════════════════════════╝"
+echo ""
+
+echo "📖 DOCUMENTATION"
+echo "  README.md                  - Project overview"
+echo "  INSTALL.md                 - Installation guide"
+echo "  CONTRIBUTING.md            - Contributing guidelines"
+echo "  SECURITY.md                - Security policy"
+echo "  GITHUB-PUSH-GUIDE.md       - How to push to GitHub"
+echo ""
+
+echo "🚀 QUICK START"
+echo "  bash quick-start.sh        - Interactive setup (5 min)"
+echo "  bash setup-linux.sh        - Linux/WSL2 setup"
+echo "  bash setup-termux.sh       - Termux (Android) setup"
+echo "  bash push-github.sh        - Push to GitHub"
+echo ""
+
+echo "📦 PYTHON SETUP"
+echo "  python3 -m venv venv       - Create virtual environment"
+echo "  source venv/bin/activate   - Activate venv (Linux/Mac)"
+echo "  pip install -r requirements.txt  - Install dependencies"
+echo ""
+
+echo "▶️  RUN APPLICATION"
+echo "  python Ghost-Phishing-Lokasi.py  - Start app"
+echo "  # Then open: http://localhost:8000"
+echo ""
+
+echo "🔧 GIT COMMANDS"
+echo "  git init                   - Initialize repository"
+echo "  git add .                  - Stage all files"
+echo "  git commit -m \"message\"    - Create commit"
+echo "  git push -u origin main    - Push to GitHub"
+echo "  git log --oneline          - View commits"
+echo ""
+
+echo "🧪 TESTING"
+echo "  pytest tests/              - Run unit tests"
+echo "  pytest --cov .             - Test with coverage"
+echo "  pylint *.py                - Lint check"
+echo "  black .                    - Format code"
+echo ""
+
+echo "📱 MULTI-PLATFORM"
+echo "  Windows WSL2               - Use setup-linux.sh"
+echo "  Linux (Debian/Ubuntu)      - Use setup-linux.sh"
+echo "  Linux (Fedora)             - Use setup-linux.sh"
+echo "  Linux (Arch)               - Use setup-linux.sh"
+echo "  Termux (Android)           - Use setup-termux.sh"
+echo ""
+
+echo "🌐 GITHUB"
+echo "  https://github.com/Sneijderlino/Lacak-Lokasi"
+echo "  Issues: https://github.com/Sneijderlino/Lacak-Lokasi/issues"
+echo "  Discussions: https://github.com/Sneijderlino/Lacak-Lokasi/discussions"
+echo ""
+
+echo "📚 RESOURCES"
+echo "  Python: https://www.python.org/"
+echo "  Flask: https://flask.palletsprojects.com/"
+echo "  Git: https://git-scm.com/"
+echo "  GitHub: https://github.com/"
+echo ""
+
+echo "✉️  CONTACT"
+echo "  Email: sneijderlino@example.com"
+echo "  GitHub: @Sneijderlino"
+echo "  LinkedIn: linkedin.com/in/sneijderlino"
+echo ""
+
+echo "╔══════════════════════════════════════════════════════╗"
+echo "║  For detailed help, visit the documentation files   ║"
+echo "╚══════════════════════════════════════════════════════╝"
